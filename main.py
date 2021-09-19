@@ -26,6 +26,7 @@ async def start(client, message):
 **Group**: ```{message.chat.title}```
 **Invite Link**:  ```t.me/{message.chat.username}```
 **User ID**: ```{message.from_user.id}```
+**Github Repo**: [Click to go.](https://github.com/lambda-stock/Telegram-Movie-Searcher)
 """)
 
 @app.on_message(filters.command("movie"))
