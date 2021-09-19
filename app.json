@@ -1,0 +1,34 @@
+{
+    "name": "Pyrogram Movie Info",
+    "description": "A Movie info searcher Telegram bot made with Pyrogram.",
+    "repository": "https://github.com/lambda-stock/Telegram-Movie-Searcher",
+    "keywords": [
+        "movie",
+        "information",
+        "finder",
+        "pyrogram",
+        "telegram bot"
+    ],
+    "env": {
+        "BOT_TOKEN": {
+            "description": "@Botfather"
+        },
+        "API_ID": {
+            "description": "https://my.telegram.org/apps"
+        },
+        "API_HASH": {
+            "description": "https://my.telegram.org/apps"
+        },
+        "TMDB_API_KEY": {
+            "description": "themoviedb.org"
+        },
+        "TMDB_LANG": {
+        	"description": "Enter your language code. For example, English: tr-TR"
+        }
+    },
+    "buildpacks": [
+        {
+            "url": "heroku/python"
+        }
+    ]
+}
