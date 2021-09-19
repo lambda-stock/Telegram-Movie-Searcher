@@ -23,7 +23,7 @@
             "description": "themoviedb.org"
         },
         "TMDB_LANG": {
-        	"description": "Enter your language code. For example, English: tr-TR"
+        	"description": "Enter your language code. For example, Turkish: tr-TR"
         }
     },
     "buildpacks": [
