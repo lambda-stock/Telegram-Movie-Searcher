@@ -9,7 +9,7 @@ A Movie info searcher Telegram Bot made with Pyrogram.
 
 <p align="left">
   <a href="https://heroku.com/deploy?template=https://github.com/lambda-stock/Telegram-Movie-Searcher">
-     <img height="30px" src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku">
+     <img style="border-radius: 3px;" height="30px" src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku">
   </a>
 </p>
 
